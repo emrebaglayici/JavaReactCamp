@@ -1,8 +1,12 @@
 package day2Homework2.sesliHarfler;
 
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        checker('f');
+        Scanner sc=new Scanner(System.in);
+        char c=sc.next().charAt(0);
+        checker(c);
     }
     public static boolean checker(char word){
         switch (Character.toLowerCase(word)){
