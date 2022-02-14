@@ -1,5 +1,4 @@
 package day2Homework2.sesliHarfler;
-
 import java.util.Scanner;
 
 public class Main {
