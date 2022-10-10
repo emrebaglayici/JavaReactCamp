@@ -1,4 +1,4 @@
-package ThirdWeekHwKodlamaIo.Entities;
+package day3Homework2.ThirdWeekHwKodlamaIo.Entities;
 
 public class Instructor {
     private String fullName;

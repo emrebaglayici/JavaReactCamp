@@ -1,9 +1,9 @@
-package ThirdWeekHwKodlamaIo;
+package day3Homework2.ThirdWeekHwKodlamaIo;
 
-import ThirdWeekHwKodlamaIo.Business.Concretes.CategoryManager;
-import ThirdWeekHwKodlamaIo.Business.Concretes.CourseManager;
-import ThirdWeekHwKodlamaIo.Entities.Category;
-import ThirdWeekHwKodlamaIo.Entities.Instructor;
+import day3Homework2.ThirdWeekHwKodlamaIo.Business.Concretes.CategoryManager;
+import day3Homework2.ThirdWeekHwKodlamaIo.Business.Concretes.CourseManager;
+import day3Homework2.ThirdWeekHwKodlamaIo.Entities.Category;
+import day3Homework2.ThirdWeekHwKodlamaIo.Entities.Instructor;
 
 public class Main {
     public static void main(String[] args) throws Exception {

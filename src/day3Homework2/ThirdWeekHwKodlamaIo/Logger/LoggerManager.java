@@ -1,4 +1,4 @@
-package ThirdWeekHwKodlamaIo.Logger;
+package day3Homework2.ThirdWeekHwKodlamaIo.Logger;
 
 public class LoggerManager implements Logger{
     @Override

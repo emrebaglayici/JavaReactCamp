@@ -1,4 +1,4 @@
-package ThirdWeekHwKodlamaIo.Business.Abstracts;
+package day3Homework2.ThirdWeekHwKodlamaIo.Business.Abstracts;
 
 
 public interface ICategory {

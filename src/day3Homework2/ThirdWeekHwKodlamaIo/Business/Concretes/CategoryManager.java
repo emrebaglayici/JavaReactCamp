@@ -1,8 +1,8 @@
-package ThirdWeekHwKodlamaIo.Business.Concretes;
+package day3Homework2.ThirdWeekHwKodlamaIo.Business.Concretes;
 
-import ThirdWeekHwKodlamaIo.Business.Abstracts.ICategory;
-import ThirdWeekHwKodlamaIo.Entities.Category;
-import ThirdWeekHwKodlamaIo.Logger.LoggerManager;
+import day3Homework2.ThirdWeekHwKodlamaIo.Business.Abstracts.ICategory;
+import day3Homework2.ThirdWeekHwKodlamaIo.Entities.Category;
+import day3Homework2.ThirdWeekHwKodlamaIo.Logger.LoggerManager;
 
 import java.util.ArrayList;
 import java.util.List;

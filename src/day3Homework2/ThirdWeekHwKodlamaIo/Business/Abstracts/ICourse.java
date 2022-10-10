@@ -1,7 +1,7 @@
-package ThirdWeekHwKodlamaIo.Business.Abstracts;
+package day3Homework2.ThirdWeekHwKodlamaIo.Business.Abstracts;
 
-import ThirdWeekHwKodlamaIo.Entities.Category;
-import ThirdWeekHwKodlamaIo.Entities.Instructor;
+import day3Homework2.ThirdWeekHwKodlamaIo.Entities.Category;
+import day3Homework2.ThirdWeekHwKodlamaIo.Entities.Instructor;
 
 public interface ICourse {
     boolean checkCourseName(String courseName) throws Exception;
